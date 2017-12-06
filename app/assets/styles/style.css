@@ -3,3 +3,8 @@
   transition: all .5s;
   user-select: none;
   background: linear-gradient(to bottom, white, black); }
+
+.jawn {
+  display: flex;
+  transition: all .5s;
+  user-select: none; }
