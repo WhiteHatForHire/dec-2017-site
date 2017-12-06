@@ -1,0 +1,14 @@
+{
+  "name": "dec-2017-site",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhiteHatForHire/dec-2017-site.git"
+  },
+  "license": "ISC",
+  "description": "tutorial_site",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
